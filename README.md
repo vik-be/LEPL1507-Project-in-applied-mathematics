@@ -1,6 +1,5 @@
 # Projet 4 en Mathématiques Appliquées
 ## Classification robuste sous attaques adversariales
-#### Antonutti Victor, Desmette Mateo, Djoukouo Marie Pascale, Hertoghe Adèle, Lepoutre Florian, Mbengue Abdou
 
 ### Arborescence du projet
 ```
